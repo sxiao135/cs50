@@ -20,5 +20,6 @@
     - you can then merge the branches together
     - git branch : tells you which branch you're on
     - git checkout -b nameofbranch : lets you create and name a new branch
+    - git checkout nameofbranch: switch to another branch
     - git merge nameofbranch : merges the current branch and nameofbranch
 - fork : allows you to make a copy of an already existing repository so you can 
