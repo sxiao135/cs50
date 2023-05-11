@@ -16,7 +16,7 @@
 - git reset --hard <commit that youy want to revert to>
 - git reset --hard origin/master
     - resets to what's on the server
-- branshing: lets you use multiple parts of the code at once
+- branching: lets you use multiple parts of the code at once
     - you can then merge the branches together
     - git branch : tells you which branch you're on
     - git checkout -b nameofbranch : lets you create and name a new branch
