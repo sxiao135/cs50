@@ -3,3 +3,15 @@ a{
     text-align: right;
     padding: 5px;
 }
+.links{
+    display:flex;
+    flex-wrap: wrap;
+    
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.links > div{
+    color: darkgreen;
+}
