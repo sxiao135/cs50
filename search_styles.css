@@ -1,7 +1,8 @@
-a{
+a {
     color: navy;
     text-align: right;
     padding: 5px;
+    margin: 5px
 }
 .links{
     display:flex;
